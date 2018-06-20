@@ -13,6 +13,11 @@
 
 /*
 
+https://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
+https://itsolutionstuff.com/post/custom-user-log-activity-in-laravel-5-app-exampleexample.html
+
+
+
 https://appdividend.com/2018/02/23/laravel-5-6-crud-tutorial/
 https://scotch.io/tutorials/simple-laravel-crud-with-resource-controllers
 https://itsolutionstuff.com/post/laravel-56-crud-application-for-starterexample.html
