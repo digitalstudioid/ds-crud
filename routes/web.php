@@ -32,6 +32,8 @@ https://itsolutionstuff.com/post/laravel-5-ajax-crud-with-pagination-example-and
 https://vegibit.com/laravel-ajax-crud-tutorial/
 https://jmkleger.com/post/ajax-crud-for-laravel-5-4
 
+https://laravel-news.com/your-first-laravel-application
+
 
 
 ---------------------------- LARAVEL --------------------------
